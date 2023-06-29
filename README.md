@@ -3,7 +3,14 @@ This project classifies images based on Benign Skin Cancer and Malignant Skin Ca
 
 ## The Algorithm
 The algorithm of sorting Benign and Malignant Skin Cancer works by first being trained by being shown a series of images that are Benign or Malignant. Through the resnet tool, AI learns certain features of Benign and Malignant Skin Cancer, like a series of patterns that the Benign Skin or Malignant photos would have. After the AI knows what images are Benign and Malignant skin, the AI is shown a new set of images, labels them Benign or Malignant from their pre-trained knowledge, and exports them to Benign and Malignant output folders. Only Benign and Malignant were the options for classifying the images, as determined by the categories defined in the labels.txt file in the project folder.
+## Test Input and Output Images
+INPUT IMAGE
+(https://github.com/shraddhaha/Benign-or-Malignant-Skin-Cancer-Classification/assets/108448331/8a1e0474-8733-41de-81db-081ee40749be)
 
-[View a video explanation here](video link)
+OUTPUT IMAGE
+(https://github.com/shraddhaha/Benign-or-Malignant-Skin-Cancer-Classification/assets/108448331/a4596680-7578-4420-a708-084d308e5b99)
+
+## View a Video Explanation Here
+(video link)
 
 
